@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hmahbobi123/chess-react-pract/static/css/main.5690bc36.css",
+    "main.js": "/hmahbobi123/chess-react-pract/static/js/main.674392ae.js",
+    "static/js/787.fb9c7072.chunk.js": "/hmahbobi123/chess-react-pract/static/js/787.fb9c7072.chunk.js",
+    "index.html": "/hmahbobi123/chess-react-pract/index.html",
+    "main.5690bc36.css.map": "/hmahbobi123/chess-react-pract/static/css/main.5690bc36.css.map",
+    "main.674392ae.js.map": "/hmahbobi123/chess-react-pract/static/js/main.674392ae.js.map",
+    "787.fb9c7072.chunk.js.map": "/hmahbobi123/chess-react-pract/static/js/787.fb9c7072.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5690bc36.css",
+    "static/js/main.674392ae.js"
+  ]
+}
